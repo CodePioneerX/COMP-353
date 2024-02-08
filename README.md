@@ -1,4 +1,4 @@
-# SOEN 353 Repository Summary
+# COMP 353 Repository Summary
 
 ## Assignments
 
